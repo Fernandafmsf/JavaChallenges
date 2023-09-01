@@ -1,10 +1,9 @@
 # Challenges 
+Description of [HackerRank Challenges](https://www.hackerrank.com/dashboard)
 
 ## Java Stdin and Stdout I
 
 ### Task 
-
-Task
 
 In this challenge, you must read  integers from stdin and then print them to stdout. Each integer must be printed on a new line. To make the problem a little easier, a portion of the code is provided for you in the editor below.
 
@@ -28,7 +27,7 @@ Solution: [ex00](HackerRank/src/Introduction/ex00.java)
 
 ## Java Stdin and Stdout II
 
-Task
+### Task
 
 In this challenge, you must read an integer, a double, and a String from stdin, then print the values according to the instructions in the Output Format section below.
 
@@ -52,7 +51,7 @@ Solution: [ex01](HackerRank/src/Introduction/ex01.java)
 
 
 ## Java If-Else
-Task
+### Task
 
 Given an integer, perform the following conditional actions:
 
