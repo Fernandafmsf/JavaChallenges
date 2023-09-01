@@ -24,7 +24,7 @@ Sample Output
 100 
 125
 ````   
-Solution: [ex00](src/Introduction/ex00.java)
+Solution: [ex00](HackerRank/src/Introduction/ex00.java)
 
 ## Java Stdin and Stdout II
 
@@ -48,7 +48,7 @@ On the first line, print String: followed by the unaltered String read from stdi
 On the second line, print Double: followed by the unaltered double read from stdin.
 On the third line, print Int: followed by the unaltered integer read from stdin.
 
-Solution: [ex01](src/Introduction/ex01.java)
+Solution: [ex01](HackerRank/src/Introduction/ex01.java)
 
 
 ## Java If-Else
@@ -72,7 +72,7 @@ Constraints
 
 Print Weird if the number is weird; otherwise, print Not Weird.
 
-Solution: [ex02](src/Introduction/ex02.java)
+Solution: [ex02](HackerRank/src/Introduction/ex02.java)
 
 ## Java Output Formatting
 
@@ -104,7 +104,7 @@ python         050
 ================================
 ```
 
-Solution: [ex03](src/Introduction/ex03.java)
+Solution: [ex03](HackerRank/src/Introduction/ex03.java)
 
 
 
